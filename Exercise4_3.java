@@ -24,7 +24,7 @@ public class Exercise4_3 {
 }
 
 // Stack diyagramı:
-// ping
+// ping()
 // baffle()
 // zoop()
 // main()
