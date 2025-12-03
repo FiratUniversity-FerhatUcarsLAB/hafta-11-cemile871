@@ -25,3 +25,24 @@ public class Exercise4_5 {
         System.out.println("any " + strangStrung + "more ");
     }
 }
+
+// Stack diyagramı:
+
+// zoop("breakfast ", 4)
+//     fred = "breakfast "
+//     bob = 4
+
+// clink(4)
+//     fork = 4
+
+// main
+//   bizz = 5
+//   buzz = 2
+
+
+// çıktı:
+
+// just for
+// any not more
+// It's breakfast
+// !
