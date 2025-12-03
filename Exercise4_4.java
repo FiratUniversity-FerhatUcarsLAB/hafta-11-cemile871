@@ -17,5 +17,9 @@ public class Exercise4_4 {
         // System.out.println(sayHello() + 7);
 
         // Cevaplarinizi yorum olarak ekleyin.
+
+        // 1) hiçbir değişkene atamadığımız için kaybolur hata vermez
+        // 2) değer döndürmediği için hata verir 
+        // hata: void türü buna izin vermez
     }
 }
